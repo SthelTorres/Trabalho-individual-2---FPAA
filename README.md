@@ -1,4 +1,4 @@
-# Trabalho-individual-2---FPAA
+# trabalho_individual_2_FPAA
 
 ## Descrição
 Este trabalho implementa o **algoritmo de seleção simultânea do mínimo e do máximo** de uma sequência de números utilizando a técnica de **Divisão e Conquista**.
